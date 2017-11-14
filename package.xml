@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<package>
+  <name>praca_magisterska</name>
+  <version>0.0.0</version>
+  <description>Praca magisterska Ewy Tymoszewskiej</description>
+
+  <maintainer email="ewatymoszewska@gmail.com">Ewa Tymoszewska</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>pcl_conversions</build_depend>
+  <build_depend>pcl_ros</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>libpcl-all-dev</build_depend>
+
+  <build_depend>libopenni-dev</build_depend>
+  <build_depend>libusb-1.0-dev</build_depend>
+  <build_depend>libopenni-sensor-primesense-dev</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>orocos_kdl</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>roslib</build_depend>
+
+  <run_depend>pcl_conversions</run_depend>
+  <run_depend>pcl_ros</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <run_depend>libpcl-all</run_depend>
+
+  <run_depend>libopenni-dev</run_depend>
+  <run_depend>libusb-1.0-dev</run_depend>
+  <run_depend>libopenni-sensor-primesense-dev</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>orocos_kdl</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>roslib</run_depend>
+
+</package>
